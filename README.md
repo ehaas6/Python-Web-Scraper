@@ -1,2 +1,2 @@
 # Python-Web-Scraper
-Created a web scraper to import tables from a website into CSV files using BeautifulSoup and pandas.
+This web scraper was used to import tables from the Animal Crossing: Pocket Camp wiki page into CSV files using BeautifulSoup and pandas.
